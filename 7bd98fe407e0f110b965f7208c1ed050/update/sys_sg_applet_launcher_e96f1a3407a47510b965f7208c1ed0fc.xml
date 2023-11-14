@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles>2f31e27407a47510b965f7208c1ed0ac</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Varan Optics</name>
+        <required_roles>x_146833_aw_optics.patient_user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2023-08-07 00:20:46</sys_created_on>
+        <sys_id>e96f1a3407a47510b965f7208c1ed0fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Welcome</sys_name>
+        <sys_package display_value="AwesomeOptics" source="x_146833_aw_optics">7bd98fe407e0f110b965f7208c1ed050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AwesomeOptics">7bd98fe407e0f110b965f7208c1ed050</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_e96f1a3407a47510b965f7208c1ed0fc</sys_update_name>
+        <sys_updated_by>adminanil</sys_updated_by>
+        <sys_updated_on>2023-08-07 00:27:50</sys_updated_on>
+        <title>Welcome</title>
+    </sys_sg_applet_launcher>
+</record_update>

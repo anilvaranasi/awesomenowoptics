@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_client_theme">
+    <sys_sg_client_theme action="INSERT_OR_UPDATE">
+        <name>AwesomeNow</name>
+        <palette>{"Brand":"#92D050","Secondary":"#FF00FF","Tertiary":"#FF00FF","Primary":"#FF00FF","Destructive":"#FF00FF","Positive":"#FF00FF"}</palette>
+        <sys_class_name>sys_sg_client_theme</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2023-08-07 00:15:32</sys_created_on>
+        <sys_id>943edefc07647510b965f7208c1ed076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AwesomeNow</sys_name>
+        <sys_package display_value="AwesomeOptics" source="x_146833_aw_optics">7bd98fe407e0f110b965f7208c1ed050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AwesomeOptics">7bd98fe407e0f110b965f7208c1ed050</sys_scope>
+        <sys_update_name>sys_sg_client_theme_943edefc07647510b965f7208c1ed076</sys_update_name>
+        <sys_updated_by>adminanil</sys_updated_by>
+        <sys_updated_on>2023-08-07 00:15:32</sys_updated_on>
+    </sys_sg_client_theme>
+    <sys_translated_text action="delete_multiple" query="documentkey=943edefc07647510b965f7208c1ed076"/>
+</record_update>
