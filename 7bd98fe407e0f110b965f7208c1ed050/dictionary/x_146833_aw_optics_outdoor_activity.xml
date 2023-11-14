@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7023dabc07e07510b965f7208c1ed0df" label="Outdoor Activity" max_length="40" name="x_146833_aw_optics_outdoor_activity" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="End Time" max_length="40" name="end_time" type="glide_time"/>
+        <element label="Patient" max_length="32" name="patient" reference="x_146833_aw_optics_patient" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_time"/>
+        <element attributes="encode_utf8=false" label="Daily activity" max_length="32" name="u_daily_activity" reference="x_146833_aw_optics_daily_activity" type="reference"/>
+        <index name="index">
+            <element name="patient"/>
+        </index>
+        <index name="index2">
+            <element name="u_daily_activity"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40259ef407247510b965f7208c1ed0cc" label="Daily Activity" max_length="40" name="x_146833_aw_optics_daily_activity" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Patient" max_length="32" name="patient" reference="x_146833_aw_optics_patient" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Total Activity" max_length="40" name="total_activity" type="glide_duration"/>
+        <index name="index">
+            <element name="patient"/>
+        </index>
+    </element>
+</database>

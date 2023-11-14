@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Varan Optics">4027123c07247510b965f7208c1ed0af</application>
+        <filter/>
+        <name>Patients</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_146833_aw_optics.patient_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2023-08-06 23:29:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32d3d23407247510b965f7208c1ed07a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Patients</sys_name>
+        <sys_package display_value="AwesomeOptics" source="x_146833_aw_optics">7bd98fe407e0f110b965f7208c1ed050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AwesomeOptics">7bd98fe407e0f110b965f7208c1ed050</sys_scope>
+        <sys_update_name>sys_ui_module_32d3d23407247510b965f7208c1ed07a</sys_update_name>
+        <sys_updated_by>adminanil</sys_updated_by>
+        <sys_updated_on>2023-08-06 23:45:12</sys_updated_on>
+        <table>x_146833_aw_optics_patient</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
